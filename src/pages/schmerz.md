@@ -1,3 +1,7 @@
+---
+layout: ../layouts/BaseLayout.astro
+---
+# Schmerz
 ### Schmerz neu gedacht
 Schmerz ist nicht das, was wir bisher gedacht haben. Jüngere Erkenntnisse aus der Schmerzforschung zeigen uns ein neues Verständnis von Schmerz auf. Weil daraus vielversprechende Möglichkeiten für die Behandlung von Schmerzen resultieren, lohnt es sich, genauer hinzuschauen und Schmerz wirklich zu verstehen.
 
