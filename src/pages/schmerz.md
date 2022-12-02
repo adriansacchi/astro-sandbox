@@ -17,7 +17,7 @@ Aus evolutionärer Sicht wurde Schmerz ausgebildet, um uns das Leben zu retten. 
 
 >Wir können die Sache aus umgekehrter Perspektive betrachten: Wer aufgrund eines Gendefekts keine Schmerzen empfinden kann, hat es sehr schwer im Leben. „Die Unfähigkeit, Schmerz zu empfinden, ist ein Fluch“, betont Harro Albrecht in seinem Buch „Schmerz“. Er hat die sogenannten Cipa-Kinder von Be’er Scheva in Israel besucht: Kinder, die wegen eines Erbgutfehlers nie Schmerzen empfinden, selbst bei schwersten Verletzungen nicht. Schon als Kleinkinder sind sie übersät von Narben und blauen Flecken und haben oft schon Gliedmassen verloren, weil sich Wunden entzündeten. „Weil die Kinder gern an ihren Fingern nagen, ziehen ihnen Ärzte vorsorglich die Zähne.“ 
 
-    ### Wie entsteht Schmerz?
+### Wie entsteht Schmerz?
 Schmerz entsteht im Hirn und nicht dort, wo wir ihn im Körper fühlen. <sup>[19, 41, 42, 44, 47-49]</sup> Ein Beweis für die Rolle des Hirns liefert unter anderem der Phantomschmerz - eine Schmerzempfindung in einer Gliedmasse, die nicht mehr vorhanden ist. <sup>[146]</sup>
 
 Um zu verstehen, wie Schmerz entsteht, müssen wir das Zusammenspiel von Körper und Hirn verstehen. Zunächst müssen wir zwischen dem empfundenen Schmerz und der Nozizeption unterscheiden. 
