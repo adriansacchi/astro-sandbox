@@ -3,21 +3,25 @@
 @tailwind utilities;
 
 @layer base {
-    h1 {
-        @apply font-semibold;
-        @apply mt-4;
-        @apply text-2xl;
-    }
+  body {
+    @apply p-2;
+  }
 
-    h2 {
-        @apply font-semibold;
-        @apply mt-3;
-        @apply text-xl;
-    }
-    
-    h3 {
-        @apply font-semibold;
-        @apply mt-2;
-        @apply text-lg;
-    }
+  h1 {
+    @apply font-semibold;
+    @apply mt-4;
+    @apply text-2xl;
+  }
+
+  h2 {
+    @apply font-semibold;
+    @apply mt-3;
+    @apply text-xl;
+  }
+
+  h3 {
+    @apply font-semibold;
+    @apply mt-2;
+    @apply text-lg;
+  }
 }
